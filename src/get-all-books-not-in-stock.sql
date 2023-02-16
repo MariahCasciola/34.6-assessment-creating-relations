@@ -1,0 +1,1 @@
+-- Write a query to return a list of all book and author-related fields for all books that are currently out of stock.
