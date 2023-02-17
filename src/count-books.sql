@@ -1,5 +1,5 @@
 --  Write a query to return the number of books "Leo Tolstoy" wrote.
-SELECT COUNT ()
+SELECT COUNT (*)
 FROM books b
 LEFT JOIN 
 authors a
